@@ -1,0 +1,6 @@
+smtplib
+email
+jinja2
+python-dotenv
+imaplib2
+
